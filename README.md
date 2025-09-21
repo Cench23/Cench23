@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="150" src="https:https://tse3.mm.bing.net/th/id/OIP.tEeAApWdVHQfYbXwe1a4aQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"  />
+<img align="left" height="150" src="https://www.xtrafondos.com/wallpapers/morty-de-rick-and-morty-6424.jpg"  />
 
 ###
 
