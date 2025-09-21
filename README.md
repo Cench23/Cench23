@@ -47,10 +47,13 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
+
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=63lr3f27hywjolq3iazxar6ec" alt="Spotify recently played"  />
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=63lr3f27hywjolq3iazxar6ec)
+
 </div>
 
 ###
