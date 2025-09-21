@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="150" src="https://wallpapers.com/images/hd/funny-profile-picture-1l2l3tmmbobjqd53.jpg"  />
+<img align="left" height="150" src="https:https://tse3.mm.bing.net/th/id/OIP.tEeAApWdVHQfYbXwe1a4aQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"  />
 
 ###
 
@@ -52,7 +52,6 @@
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=63lr3f27hywjolq3iazxar6ec" alt="Spotify recently played"  />
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=63lr3f27hywjolq3iazxar6ec)
 
 </div>
 
